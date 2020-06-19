@@ -45,7 +45,7 @@ gnome-extension enable dash-to-panel
 
 install gir1.2-gtop-2.0 lm-sensors
 git clone https://github.com/corecoding/Vitals ~/.local/share/gnome-shell/extensions/Vitals@CoreCoding.com
-gnome-shell-extension-tool -e vitals
+gnome-shell-extension-tool enable vitals
 
 ### Python
 
